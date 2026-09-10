@@ -9,13 +9,13 @@ A curated directory of open-source frameworks, historical data archives, backtes
 
 ### 🔍 Infrastructure & Account Evaluation Utilities
 * **[BrokerCatalogue Smart Finder](https://brokercatalogue.com)** - An active web app selector parsing broker spreads, platform routing APIs, and latency limits.
+* **[Broker Finder Tool](https://brokercatalogue.com/forex-tools/broker-finder/)** - An interactive utility to filter and match specific broker criteria.
 * **[Top Rated Broker Benchmarks](https://brokercatalogue.com/best-forex-brokers/)** - Reviewing the top 10 execution platforms for institutional safety and cost control.
 * **[Independent Broker Reviews](https://brokercatalogue.com/brokers/)** - Data-backed verification scores evaluating security tiers and market connectivity.
 
 ---
 
 ## ⚠️ Common Algorithmic Deployment Issues & Solutions
-
 ### 1. Account Configuration & Setup Terminology
 * **The Issue:** Modern automated trading bot frameworks fail or execute wrong orders because the developer does not understand the technical difference between an A-Book execution system, raw spread frameworks, or margin tiers.
 * **The Solution:** Avoid costly structural coding math mistakes by cross-referencing industry infrastructure equations. Review standard operational definitions, lot-sizing mechanics, and execution parameters inside the [BrokerCatalogue Forex Glossary](https://brokercatalogue.com/forex-glossary/).
